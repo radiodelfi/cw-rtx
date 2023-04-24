@@ -4,9 +4,9 @@ BY RADIO DELFI 1984
 
 ![CW-RTX](img/cw-rtx.png)
 
-Un programma per ricevere e trasmettere in CW con il VIC-20
------------------------------------------------------------
-Questo programma è stato sviluppato per trasformare il Commodore VIC-20 in un dispositivo da collegare a ricetrasmettitori amatoriali per ricevere e trasmettere in telegrafia. 
+Un programma per ricevere e trasmettere in CW con il Commodore VIC-20
+---------------------------------------------------------------------
+Questo programma è stato sviluppato per trasformare il VIC-20 in un dispositivo da collegare a ricetrasmettitori amatoriali per ricevere e trasmettere in telegrafia. 
 
 Il programma **CW-RTX.B** fornisce le funzioni che permettono ad un operatore di lavorare in CW (trasmissione, ricezione, ecc.). Il programma è scritto in BASIC ma richiama le routine in linguaggio macchima che implementano tutte le funzioni di codifica e decodifica dei segnali CW e di interfaccia alla radio (RIG). 
 
